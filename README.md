@@ -1,5 +1,17 @@
 🛒 Retail Sales Data Analysis & Forecasting
 
+Sales data for a global electronics retailer, including tables containing information about transactions, products, customers, stores and currency exchange rates.
+
+Analysis done to answer:
+What types of products does the company sell, and where are customers located?
+
+Are there any seasonal patterns or trends for order volume or revenue?
+
+How long is the average delivery time in days? Has that changed over time?
+
+Is there a difference in average order value (AOV) for online vs. in-store sales?
+
+
 End-to-end retail sales data project covering:
 
 SQL database design
