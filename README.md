@@ -56,10 +56,10 @@ Sales data for a global electronics retailer, including tables containing inform
 21
 <img width="1920" height="1080" alt="22" src="https://github.com/user-attachments/assets/de18372b-1cc9-4284-8191-0b5d0bbff294" />
 22
-<img width="1920" height="1080" alt="23" src="https://github.com/user-attachments/assets/52db6cc1-612c-4cb6-82db-a8ac2b14bf03" />
 
 🤖 Modeling & Revenue Forecasting
 🎯 Problem, 🔄 Data Preparation, 🧠 Model Used, 📊 Output, 📈 Forecasting, Key Insights
+<img width="1920" height="1080" alt="23" src="https://github.com/user-attachments/assets/52db6cc1-612c-4cb6-82db-a8ac2b14bf03" />
 23
 <img width="1920" height="1080" alt="24" src="https://github.com/user-attachments/assets/769fd4a1-8ffb-41f0-ba70-911131545082" />
 24
