@@ -57,14 +57,16 @@ Sales data for a global electronics retailer, including tables containing inform
 <img width="1920" height="1080" alt="22" src="https://github.com/user-attachments/assets/de18372b-1cc9-4284-8191-0b5d0bbff294" />
 22
 <img width="1920" height="1080" alt="23" src="https://github.com/user-attachments/assets/52db6cc1-612c-4cb6-82db-a8ac2b14bf03" />
+
+🤖 Modeling & Revenue Forecasting
+🎯 Problem, 🔄 Data Preparation, 🧠 Model Used, 📊 Output, 📈 Forecasting, Key Insights
 23
 <img width="1920" height="1080" alt="24" src="https://github.com/user-attachments/assets/769fd4a1-8ffb-41f0-ba70-911131545082" />
 24
 <img width="1920" height="1080" alt="25" src="https://github.com/user-attachments/assets/973a3bc6-c493-4115-ac76-53a521c7a960" />
 25
 
-🤖 Modeling & Revenue Forecasting
-🎯 Problem, 🔄 Data Preparation, 🧠 Model Used, 📊 Output, 📈 Forecasting, 📌 Key Insights
+📌 Power BI Dashboard, Dax Measures, Key KPIs, Recommendations
 <img width="1920" height="1080" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/f778343c-ae83-4f26-b6c6-2003c30d9076" />
 26
 <img width="1920" height="1080" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/ea607dc2-d37a-4e69-8437-72c8a2c1e379" />
