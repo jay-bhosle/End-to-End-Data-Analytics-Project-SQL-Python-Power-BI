@@ -23,44 +23,44 @@ Sales data for a global electronics retailer, including tables containing inform
 9
 <img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/22263fd0-b76f-4c8a-9460-b45d05f8fed4" />
 10
+<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/03755d66-044a-4def-8416-0518b0e7b414" />
+11
 
 🐍 Python Setup & Data Preprocessing
 🔧 Environment Setup, 🔗 Database Connection, 📥 Data Loading, 🧹 Data Cleaning in Python
-<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/03755d66-044a-4def-8416-0518b0e7b414" />
-11
-<img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/b5208340-aa73-4893-bc51-c24dad7ea752" />
+<img width="1920" height="1080" alt="12" src="https://github.com/user-attachments/assets/380a88f7-4c6e-405c-b6ad-e3e035b2a869" />
 12
-<img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/8d0efb2f-7886-46ac-8f8c-267865ee2b8b" />
+<img width="1920" height="1080" alt="13" src="https://github.com/user-attachments/assets/3183dc42-2512-46a6-9542-a4a564e38165" />
 13
-<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/a7424a73-7fa5-4e3f-8e4b-7a683e6d924a" />
+<img width="1920" height="1080" alt="14" src="https://github.com/user-attachments/assets/d44d1408-5e0d-46ca-ab1a-76ae62d19544" />
 14
-<img width="1920" height="1080" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/655e36df-1054-4a9c-8bea-9750a85c057f" />
+<img width="1920" height="1080" alt="15" src="https://github.com/user-attachments/assets/317d1c6a-38a0-46e3-b5ea-6d390d2da9b7" />
 15
 
 📊 Feature Engineering, EDA, Currency conversion to USD
 🧮 Feature Engineering, 📈 Summary Statistics, 📊 Monthly Revenue Trend, 📌 Category-Level Analysis, 🌍 Customer Distribution
-<img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/dd7211e0-77ac-4f30-b67e-64fa3aaf4347" />
+<img width="1920" height="1080" alt="16" src="https://github.com/user-attachments/assets/c0f98184-8c3f-4909-856a-50e2908e26be" />
 16
-<img width="1920" height="1080" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/e9392b7b-b466-4b50-9617-8c45bcd913e4" />
+<img width="1920" height="1080" alt="17" src="https://github.com/user-attachments/assets/014ea656-7a50-4a40-8913-be90caeb4231" />
 17
-<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/4937af2e-9735-4bef-9db4-c84391813f34" />
+<img width="1920" height="1080" alt="18" src="https://github.com/user-attachments/assets/2a53d469-30b5-48d7-8211-3aa8ef1e54f6" />
 18
-<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/90a48dff-a78b-4627-9797-6ec764bc7cdf" />
+<img width="1920" height="1080" alt="19" src="https://github.com/user-attachments/assets/f0c3c678-8874-4ebe-aa32-cf51fc8e2d45" />
 19
-<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/1197d1c2-e664-4e75-85c0-b72e2be72b1a" />
+<img width="1920" height="1080" alt="20" src="https://github.com/user-attachments/assets/12213ad2-31dc-4e8a-adfa-1ffba01191b0" />
 20
 
 📈 Business Insights
 🏆 Top Revenue Categories, 🌎 Customer Geography, 📅 Seasonality Analysis, 🚚 Delivery Performance, 📊 Channel Analysis
-<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/0f6f9f34-8a94-42c5-b426-fcac17f01b6c" />
+<img width="1920" height="1080" alt="21" src="https://github.com/user-attachments/assets/6c68ec5e-3d12-4d95-a497-712639c79bf8" />
 21
-<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/b15a1748-4c83-464c-83a9-1e56ca05964e" />
+<img width="1920" height="1080" alt="22" src="https://github.com/user-attachments/assets/de18372b-1cc9-4284-8191-0b5d0bbff294" />
 22
-<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/5ebdca50-851e-4ed1-8537-48dac706cd43" />
+<img width="1920" height="1080" alt="23" src="https://github.com/user-attachments/assets/52db6cc1-612c-4cb6-82db-a8ac2b14bf03" />
 23
-<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/9c58e43e-8f8f-4d1d-b32e-47d3e394eeee" />
+<img width="1920" height="1080" alt="24" src="https://github.com/user-attachments/assets/769fd4a1-8ffb-41f0-ba70-911131545082" />
 24
-<img width="1920" height="1080" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/88496dcf-e4d1-45eb-ad25-82d5677ac0f8" />
+<img width="1920" height="1080" alt="25" src="https://github.com/user-attachments/assets/973a3bc6-c493-4115-ac76-53a521c7a960" />
 25
 
 🤖 Modeling & Revenue Forecasting
