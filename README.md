@@ -37,7 +37,7 @@ Sales data for a global electronics retailer, including tables containing inform
 <img width="1920" height="1080" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/655e36df-1054-4a9c-8bea-9750a85c057f" />
 15
 
-📊 Feature Engineering & EDA
+📊 Feature Engineering, EDA, Currency conversion to USD
 🧮 Feature Engineering, 📈 Summary Statistics, 📊 Monthly Revenue Trend, 📌 Category-Level Analysis, 🌍 Customer Distribution
 <img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/dd7211e0-77ac-4f30-b67e-64fa3aaf4347" />
 16
