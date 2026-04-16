@@ -67,15 +67,17 @@ Sales data for a global electronics retailer, including tables containing inform
 25
 
 📌 Power BI Dashboard, Dax Measures, Key KPIs, Recommendations
-<img width="1920" height="1080" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/f778343c-ae83-4f26-b6c6-2003c30d9076" />
+<img width="1920" height="1080" alt="26" src="https://github.com/user-attachments/assets/3b812d57-3fd8-494a-9971-25b8219f6016" />
 26
-<img width="1920" height="1080" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/ea607dc2-d37a-4e69-8437-72c8a2c1e379" />
+<img width="1920" height="1080" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/f778343c-ae83-4f26-b6c6-2003c30d9076" />
 27
-<img width="1920" height="1080" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/4c0728b5-2ae3-453c-9206-f13148dc940e" />
+<img width="1920" height="1080" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/ea607dc2-d37a-4e69-8437-72c8a2c1e379" />
 28
-<img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/307671cd-3197-493c-80b3-82be76cfde9a" />
+<img width="1920" height="1080" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/4c0728b5-2ae3-453c-9206-f13148dc940e" />
 29
-<img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/032c6b08-34b0-4a26-9a75-71759dfcf725" />
+<img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/307671cd-3197-493c-80b3-82be76cfde9a" />
 30
+<img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/032c6b08-34b0-4a26-9a75-71759dfcf725" />
+31
 
 
